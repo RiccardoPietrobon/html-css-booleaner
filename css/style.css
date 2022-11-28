@@ -44,6 +44,7 @@ table {
     border-collapse: collapse;
     width: 100%;
   }
+
 th{
     color: white;
     background-color: #00a3cc;
@@ -52,3 +53,17 @@ th{
 tr:nth-child(even) {
     background-color: #87f1f1;
   }
+
+.ultime{
+    color: white;
+    font-size: 10px;
+    height: 200px;
+    background-repeat: no-repeat;
+}    
+
+.img1{
+    background-image: url(../img/monitor.jpg);
+}
+.img2{
+    background-image: url(../img/graph.jpg);
+}
