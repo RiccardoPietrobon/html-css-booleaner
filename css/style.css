@@ -39,3 +39,16 @@ h3{
 .important{
     background-color: yellow;
 }
+/*table style*/
+table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+th{
+    color: white;
+    background-color: #00a3cc;
+}
+
+tr:nth-child(even) {
+    background-color: #87f1f1;
+  }
