@@ -1,0 +1,10 @@
+.intestazione{
+    background-color: #3399ff;
+    background-image:url(./img/pattern.png);
+    background-attachment: fixed;
+    background-size: contain;
+}
+
+#logo{
+    background-size: 10%;
+}
