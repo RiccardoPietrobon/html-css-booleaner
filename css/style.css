@@ -1,0 +1,37 @@
+.intestazione{
+    background-color: #3399ff;
+    background-image:url(../img/pattern.png);
+    background-size: 160px;
+}
+
+#logo{
+    height: 20px;
+    margin-top: 40px;
+}
+
+h1{
+    font-size: 15px;
+}
+
+h2{
+    color: #b3b3cc;
+    font-size: 10px;
+}
+
+#bool{
+    color: #33ccff;
+}
+
+h3{
+    font-size: 7px;
+    color: #b3b3cc;
+}
+
+.img-tim{
+    height: 220px;
+}
+
+#description{
+    font-size: 5px;
+    margin: 0;
+}
