@@ -1,3 +1,7 @@
+
+body{
+    margin: 0;
+}
 .intestazione{
     background-color: #3399ff;
     background-image:url(../img/pattern.png);
